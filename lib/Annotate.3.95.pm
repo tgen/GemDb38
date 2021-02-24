@@ -130,6 +130,7 @@ sub addRulesByFilename {
     my %rulesSaw = ();
     print "--------------------- Adding Rules ----\n";
     for ( my $i = 0 ; $i <= $#{ $RunParameters->{'RulesFiles'} } ; ++$i ) {
+        print "Adding Rules -> $RunParameters->{'RulesFiles'}->[$i]\n";
         my $rulesVersion = $RunParameters->{'RulesFiles'}->[$i];
         if ( $rulesVersion eq "*" ) {
             my $holder = $RunParameters->{'annotateByConn'}->get_database( $RunParameters->{'AnnotateDbName'} )->run_command( [ 'distinct' => 'rules', 'key' => 'RulesVersion', 'query' => {} ] );
@@ -334,7 +335,8 @@ sub annotateCustom {
                                 $biomarkerRef->{'type'} = "SNV";
                                 if (exists($RunParameters->{'AnnotateByCoordFields'})) {
                                      if ( $RunParameters->{'AnnotateByCoordFields'}->{'ALL'}==0) {
-                                         $biomarkerRef->{'annotate'}          = Annotate->joinOn( 'coord',
+                                         my $skip = 0;
+					 $biomarkerRef->{'annotate'}          = Annotate->joinOn( 'coord',
                                                                                                   $biomarkerRef->{'variants'}->[0]->{'coord'},
                                                                                                   $RunParameters->{'annotateByCoordCollection'},
                                                                                                   $RunParameters->{'AnnotateByCoordFields'}
@@ -576,7 +578,8 @@ sub annotateSnpeff {
                        $biomarkerRef->{'aberration'}->{'aberration_filter'} eq "LOWQC" ) && scalar(@variants) > 0 ) {
                     if (exists($RunParameters->{'AnnotateByCoordFields'})) {
                         if ( $RunParameters->{'AnnotateByCoordFields'}->{'ALL'}==0) {
-                            $biomarkerRef->{'annotate'}          = Annotate->joinOn( 'coord',
+                            my $skip = 0;
+			    $biomarkerRef->{'annotate'}          = Annotate->joinOn( 'coord',
                                                                                      $biomarkerRef->{'variants'}->[0]->{'coord'},
                                                                                      $RunParameters->{'annotateByCoordCollection'},
                                                                                      $RunParameters->{'AnnotateByCoordFields'}
@@ -1821,7 +1824,6 @@ sub addSnpeffInfo {
              last LOOP;
         }
     }
-    print "$snpeffVariantRef->{'gene'}, ";
     return $snpeffVariantRef, $snpeffMultiplesVariantRef
 }
 

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be2b5985-5a8f-44f0-b7f3-dc5cd4055f90" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="163936610">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="pm" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Perl" value="1" />
+          <entry key="Perl5 package" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="pm" value="1067" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Perl5 package" value="1067" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InsertVar.3.95.pm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="132" column="43" selection-start-line="132" selection-start-column="43" selection-end-line="132" selection-end-column="43" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#937#957#0#Perl5" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Annotate.3.95.pm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="679" selection-start-line="679" selection-end-line="679" />
+              <folding>
+                <element signature="e#1104#6868#1#Perl5" />
+                <element signature="e#6893#13485#1#Perl5" />
+                <element signature="e#13505#25132#1#Perl5" />
+                <element signature="e#25147#28269#1#Perl5" />
+                <element signature="e#28290#42148#1#Perl5" />
+                <element signature="e#42167#60689#1#Perl5" />
+                <element signature="e#60709#61154#1#Perl5" />
+                <element signature="e#61169#67865#1#Perl5" />
+                <element signature="e#67894#69092#1#Perl5" />
+                <element signature="e#69121#70399#1#Perl5" />
+                <element signature="e#70420#72236#1#Perl5" />
+                <element signature="e#72269#87328#1#Perl5" />
+                <element signature="e#87354#98943#1#Perl5" />
+                <element signature="e#98958#100575#1#Perl5" />
+                <element signature="e#100595#109046#1#Perl5" />
+                <element signature="e#109059#109582#1#Perl5" />
+                <element signature="e#109595#111558#1#Perl5" />
+                <element signature="e#111622#112069#1#Perl5" />
+                <element signature="e#112090#115808#1#Perl5" />
+                <element signature="e#115833#117702#1#Perl5" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Maintain.3.95.pm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="810" lean-forward="true" selection-start-line="810" selection-end-line="810" />
+              <folding>
+                <element signature="e#1174#1529#1#Perl5" />
+                <element signature="e#1544#2036#1#Perl5" />
+                <element signature="e#2058#4851#1#Perl5" />
+                <element signature="e#4866#11437#1#Perl5" />
+                <element signature="e#11457#11642#1#Perl5" />
+                <element signature="e#11722#13454#1#Perl5" />
+                <element signature="e#13476#27505#1#Perl5" />
+                <element signature="e#27520#29397#1#Perl5" />
+                <element signature="e#29417#30885#1#Perl5" />
+                <element signature="e#30905#39561#1#Perl5" />
+                <element signature="e#39580#43892#1#Perl5" />
+                <element signature="e#43907#44335#1#Perl5" />
+                <element signature="e#44358#44608#1#Perl5" />
+                <element signature="e#44621#45120#1#Perl5" />
+                <element signature="e#45134#45320#1#Perl5" />
+                <element signature="e#45342#47124#1#Perl5" />
+                <element signature="e#47146#47972#1#Perl5" />
+                <element signature="e#47998#49269#1#Perl5" />
+                <element signature="e#49298#49856#1#Perl5" />
+                <element signature="e#49885#50481#1#Perl5" />
+                <element signature="e#50503#54992#1#Perl5" />
+                <element signature="e#55018#55814#1#Perl5" />
+                <element signature="e#55847#56560#1#Perl5" />
+                <element signature="e#56580#62210#1#Perl5" />
+                <element signature="e#62222#62506#1#Perl5" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Heuristics.3.95.pm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3570">
+              <caret line="238" column="110" selection-start-line="238" selection-start-column="106" selection-end-line="238" selection-end-column="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>*.vcf</find>
+      <find>vcf</find>
+      <find>.vcf</find>
+      <find>$function</find>
+      <find>closeAllConnections</find>
+      <find>$conn</find>
+      <find>remove</find>
+      <find>filepath</find>
+      <find>update</find>
+      <find>HIGH</find>
+      <find>assignAberrationDocForSnvs</find>
+      <find>print</find>
+      <find>assignAberrationDoc</find>
+      <find>print &quot;$coord</find>
+      <find>foreach</find>
+      <find>addSnpeffInfo</find>
+      <find>gene</find>
+      <find>$snpeffVariantRef-&gt;{'gene'</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Heuristics.3.95.pm" />
+        <option value="$PROJECT_DIR$/InsertVar.3.95.pm" />
+        <option value="$PROJECT_DIR$/Annotate.3.95.pm" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1914" />
+    <option name="y" value="83" />
+    <option name="width" value="1801" />
+    <option name="height" value="905" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="PERL5_MAIN_SETTINGS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be2b5985-5a8f-44f0-b7f3-dc5cd4055f90" name="Default Changelist" comment="" />
+      <created>1549388263029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549388263029</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1914" y="83" width="1801" height="905" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23877203" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32874617" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="perl_line_breakpoint">
+          <url>file://$PROJECT_DIR$/Annotate.3.95.pm</url>
+          <line>1141</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="perl_line_breakpoint">
+          <url>file://$PROJECT_DIR$/InsertVar.3.95.pm</url>
+          <line>633</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/InsertVar.3.95.pm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="132" column="43" selection-start-line="132" selection-start-column="43" selection-end-line="132" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#937#957#0#Perl5" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Heuristics.3.95.pm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="238" column="110" selection-start-line="238" selection-start-column="106" selection-end-line="238" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Annotate.3.95.pm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="679" selection-start-line="679" selection-end-line="679" />
+          <folding>
+            <element signature="e#1104#6868#1#Perl5" />
+            <element signature="e#6893#13485#1#Perl5" />
+            <element signature="e#13505#25132#1#Perl5" />
+            <element signature="e#25147#28269#1#Perl5" />
+            <element signature="e#28290#42148#1#Perl5" />
+            <element signature="e#42167#60689#1#Perl5" />
+            <element signature="e#60709#61154#1#Perl5" />
+            <element signature="e#61169#67865#1#Perl5" />
+            <element signature="e#67894#69092#1#Perl5" />
+            <element signature="e#69121#70399#1#Perl5" />
+            <element signature="e#70420#72236#1#Perl5" />
+            <element signature="e#72269#87328#1#Perl5" />
+            <element signature="e#87354#98943#1#Perl5" />
+            <element signature="e#98958#100575#1#Perl5" />
+            <element signature="e#100595#109046#1#Perl5" />
+            <element signature="e#109059#109582#1#Perl5" />
+            <element signature="e#109595#111558#1#Perl5" />
+            <element signature="e#111622#112069#1#Perl5" />
+            <element signature="e#112090#115808#1#Perl5" />
+            <element signature="e#115833#117702#1#Perl5" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Maintain.3.95.pm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="810" lean-forward="true" selection-start-line="810" selection-end-line="810" />
+          <folding>
+            <element signature="e#1174#1529#1#Perl5" />
+            <element signature="e#1544#2036#1#Perl5" />
+            <element signature="e#2058#4851#1#Perl5" />
+            <element signature="e#4866#11437#1#Perl5" />
+            <element signature="e#11457#11642#1#Perl5" />
+            <element signature="e#11722#13454#1#Perl5" />
+            <element signature="e#13476#27505#1#Perl5" />
+            <element signature="e#27520#29397#1#Perl5" />
+            <element signature="e#29417#30885#1#Perl5" />
+            <element signature="e#30905#39561#1#Perl5" />
+            <element signature="e#39580#43892#1#Perl5" />
+            <element signature="e#43907#44335#1#Perl5" />
+            <element signature="e#44358#44608#1#Perl5" />
+            <element signature="e#44621#45120#1#Perl5" />
+            <element signature="e#45134#45320#1#Perl5" />
+            <element signature="e#45342#47124#1#Perl5" />
+            <element signature="e#47146#47972#1#Perl5" />
+            <element signature="e#47998#49269#1#Perl5" />
+            <element signature="e#49298#49856#1#Perl5" />
+            <element signature="e#49885#50481#1#Perl5" />
+            <element signature="e#50503#54992#1#Perl5" />
+            <element signature="e#55018#55814#1#Perl5" />
+            <element signature="e#55847#56560#1#Perl5" />
+            <element signature="e#56580#62210#1#Perl5" />
+            <element signature="e#62222#62506#1#Perl5" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

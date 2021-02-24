@@ -1,0 +1,81 @@
+{
+   "abstract" : "capture STDOUT and STDERR from Perl code, subprocesses or XS",
+   "author" : [
+      "Simon Flack <simonflk@cpan.org>",
+      "David Golden <dagolden@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 5.031, CPAN::Meta::Converter version 2.143240, CPAN::Meta::Converter version 2.120630",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "IO-CaptureOutput",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "xt",
+         "examples",
+         "corpus"
+      ],
+      "package" : [
+         "DB"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.17",
+            "perl" : "5.006"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Carp" : "0",
+            "Exporter" : "0",
+            "ExtUtils::MakeMaker" : "6.17",
+            "File::Basename" : "0",
+            "File::Spec" : "3.27",
+            "File::Temp" : "0.16",
+            "IO::File" : "0",
+            "Symbol" : "0",
+            "Test::More" : "0.62",
+            "perl" : "5.006",
+            "strict" : "0",
+            "vars" : "0",
+            "warnings" : "0"
+         }
+      }
+   },
+   "provides" : {
+      "IO::CaptureOutput" : {
+         "file" : "lib/IO/CaptureOutput.pm",
+         "version" : "1.1104"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/dagolden/IO-CaptureOutput/issues"
+      },
+      "homepage" : "https://github.com/dagolden/IO-CaptureOutput",
+      "repository" : {
+         "url" : "https://github.com/dagolden/IO-CaptureOutput.git"
+      }
+   },
+   "version" : "1.1104",
+   "x_authority" : "cpan:DAGOLDEN",
+   "x_contributors" : [
+      "Mike Latimer <mlatimer@suse.com>",
+      "Olivier Mengué <dolmen@cpan.org>",
+      "Tony Cook <tony@develop-help.com>"
+   ]
+}
